@@ -1,3 +1,5 @@
+alert('Olá sejá muito bem vindo ao meu primeiro projeto de html');
+
 /* 
 	OBJETIVO - quando clicarmos no botão temos que mostrar a imagem de fundo correspondente
 
